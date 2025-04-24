@@ -1,1 +1,1 @@
-# shell_scripts
+# Snitzel's helper scripts
